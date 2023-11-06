@@ -1,0 +1,5 @@
+D:/homeworks/homework3.10/homework3.10.1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/homeworks/homework3.10/homework3.10.1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/homeworks/homework3.10/homework3.10.1/out/build/x64-debug/homework3.10.1/CMakeFiles/homework3.10.1.dir
+D:/homeworks/homework3.10/homework3.10.1/out/build/x64-debug/homework3.10.1/CMakeFiles/edit_cache.dir
+D:/homeworks/homework3.10/homework3.10.1/out/build/x64-debug/homework3.10.1/CMakeFiles/rebuild_cache.dir

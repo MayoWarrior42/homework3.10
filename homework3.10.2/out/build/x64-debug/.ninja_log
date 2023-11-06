@@ -1,0 +1,15 @@
+# ninja log v5
+5	901	7209964383984173	homework3.10.2/CMakeFiles/homework3.10.2.dir/homework3.10.2.cpp.obj	8a36e160cb27a48e
+24	1152	7209966458917438	homework3.10.2/CMakeFiles/homework3.10.2.dir/EquilateralTriangle.cpp.obj	3d07d870182ca876
+14	185	7209968231412070	build.ninja	3a7c17c26ad01e70
+22	1623	7209968243499934	homework3.10.2/CMakeFiles/homework3.10.2.dir/Parallelogram.cpp.obj	810000a28e011d3f
+17	1646	7209968243479992	homework3.10.2/CMakeFiles/homework3.10.2.dir/IsoscelesTriangle.cpp.obj	70cd6d14cc63ac62
+38	1647	7209968243499934	homework3.10.2/CMakeFiles/homework3.10.2.dir/Rhombus.cpp.obj	9f3ae006a49e17d3
+67	1648	7209968243569745	homework3.10.2/CMakeFiles/homework3.10.2.dir/Triangle.cpp.obj	2a2985ba50403656
+28	1648	7209968243858969	homework3.10.2/CMakeFiles/homework3.10.2.dir/Quadrilateral.cpp.obj	21e877ae9acd32fe
+33	1721	7209968243868954	homework3.10.2/CMakeFiles/homework3.10.2.dir/Rectangle.cpp.obj	5e673553452830e4
+56	1722	7209968243898869	homework3.10.2/CMakeFiles/homework3.10.2.dir/Square.cpp.obj	34926b4de4cb791a
+49	1724	7209968243878910	homework3.10.2/CMakeFiles/homework3.10.2.dir/RightTriangle.cpp.obj	bfd7f7ea5a29d555
+1724	2765	7209968253648918	homework3.10.2/homework3.10.2.exe	6f8287eaeb2454f3
+2	828	7209968586185473	homework3.10.2/CMakeFiles/homework3.10.2.dir/homework3.10.2.cpp.obj	8a36e160cb27a48e
+828	1439	7209968591092074	homework3.10.2/homework3.10.2.exe	6f8287eaeb2454f3
